@@ -1,0 +1,17 @@
+{
+    "name": "gorillaasm",
+    "description": "Porting in assembler of the project https://github.com/rmanicardi/ouas2019",
+    "toolkit": "kick",
+    "sources": [
+        "src/gorillaasm.asm",
+        "resources/screen.asm",
+        "resources/duomo.ctm"
+        
+        
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
